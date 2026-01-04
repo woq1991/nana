@@ -1,0 +1,5 @@
+{
+  "name": "E. Coli Codon Assistant",
+  "description": "A specialized tool for optimizing E. coli codon usage. Search for optimal codons by amino acid name (single/three-letter/Chinese) or use AI to optimize full protein sequences.",
+  "requestFramePermissions": []
+}
